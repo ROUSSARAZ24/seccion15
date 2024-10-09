@@ -29,3 +29,15 @@ section {
         color: rgb(75, 3, 3);
         font-weight: bold;
     }
+    button{padding: 0,5em 1em;
+        background-color: #333;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+
+    }
+    button:hover{
+        background-color: #555;
+    }
+
